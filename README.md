@@ -1,5 +1,7 @@
 # Himpunan Petunjuk Latex
 
+Terimakasih telah singgah di kelompok [Belajar LaTeX](https://github.com/Belajar-Latex/Link-Latex/edit/master/README.md) ini.
+
 Berikut merupakan kumpulan URL yang berhubungan dengan LaTeX
 
 * Bagus Tris Atmaja, Tutorial Latex Sederhana: https://github.com/bagustris/tutorial-latex
