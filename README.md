@@ -1,6 +1,8 @@
 # Himpunan Petunjuk Latex
 
-Terimakasih telah singgah di kelompok [Belajar LaTeX](https://github.com/Belajar-Latex/) ini.
+Terimakasih telah singgah di kelompok [Belajar LaTeX](https://github.com/Belajar-Latex/) ini. Menurut rencana, 
+tempat ini akan menampung semua informasi seputar LaTeX, termasuk cara menginstall LaTeX di 
+WSL ([Windows Subsystem for LaTeX eh Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux)).
 
 Berikut merupakan kumpulan URL yang berhubungan dengan LaTeX
 
