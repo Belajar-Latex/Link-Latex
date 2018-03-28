@@ -1,4 +1,4 @@
-![aen](pictures/aen.jpg "aen")
+![](pictures/aen.jpg | width="150")
 
 # Himpunan Petunjuk Latex
 
