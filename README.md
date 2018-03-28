@@ -1,3 +1,5 @@
+![aen](pictures/aen.png "aen")
+
 # Himpunan Petunjuk Latex
 
 Terimakasih telah singgah di kelompok [Belajar LaTeX](https://github.com/Belajar-Latex/) ini. Menurut rencana, 
