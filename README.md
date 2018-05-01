@@ -11,7 +11,9 @@ Berikut merupakan kumpulan URL yang berhubungan dengan LaTeX
 ## Link Pendukung
 
 * Link LaTeX Ini: https://github.com/Belajar-Latex/Link-Latex/
+* [Setup PowerShell for WSL](https://github.com/Belajar-Latex/PowerShell4WSL)
 * [Install WSL (Windows Subsystem for LaTeX eh Linux :)](https://github.com/Belajar-Latex/InstallWSLhttps://github.com/Belajar-Latex/InstallWSL)
+* [Contoh LateX](https://github.com/Belajar-Latex/ContohLaTeX)
 * [Kelompok Belajar LaTeX](https://github.com/Belajar-Latex/) 
 
 ## Link External
