@@ -11,7 +11,8 @@ Berikut merupakan kumpulan URL yang berhubungan dengan LaTeX
 ## Link Pendukung
 
 * Link LaTeX Ini: https://github.com/Belajar-Latex/Link-Latex/
-
+* [Install WSL (Windows Subsystem for LaTeX eh Linux :)](https://github.com/Belajar-Latex/InstallWSLhttps://github.com/Belajar-Latex/InstallWSL)
+* [Kelompok Belajar LaTeX](https://github.com/Belajar-Latex/) 
 
 ## Link External
 
@@ -20,10 +21,8 @@ Berikut merupakan kumpulan URL yang berhubungan dengan LaTeX
 * Ade Malsasa Akbar, LaTeX, Gummi, dan Ubuntu: https://malsasa.wordpress.com/2013/10/27/latex-gummi-dan-ubuntu/
 * Bang Hasan, Install Latex di Ubuntu atau Linux Mint: https://blog.banghasan.com/note/tutorial/install-latex-di-ubuntu-linux-mint/
 
-
 ## Informasi Tambahan
 
-* [Kelompok Belajar LaTeX](https://github.com/Belajar-Latex/) 
 * [Windows Subsystem for LaTeX eh Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux)
 
 
